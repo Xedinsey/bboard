@@ -1,2 +1,5 @@
 /venv/
 /samplesite/bboard/migrations/
+/samplesite/db.sqlite3
+.idea
+.gitignore
